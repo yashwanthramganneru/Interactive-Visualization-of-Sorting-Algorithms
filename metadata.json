@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Visualization of Sorting Algorithms",
+  "description": "A complete college project featuring an interactive Python (Tkinter & Matplotlib) sorting algorithm visualizer with animations, telemetry, complexity metrics, source code inspection, and academic project report.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,10 @@
+# Interactive Visualization of Sorting Algorithms
+# Python dependencies
+#
+# Note: Tkinter is part of the Python Standard Library.
+# On Windows and macOS, it comes pre-installed with the official installer from python.org.
+# On Debian/Ubuntu Linux: sudo apt-get install python3-tk
+# On Fedora: sudo dnf install python3-tkinter
+
+matplotlib>=3.7.0
+numpy>=1.24.0
