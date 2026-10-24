@@ -4,6 +4,13 @@ A complete Final-Year Computer Science & Engineering college project that provid
 
 ---
 
+## 🌐 Live Demo & GitHub Repository
+
+- **Live Website:** https://interactive-visualization-of-sortin-ten.vercel.app/
+- **GitHub Repository:** https://github.com/yashwanthramganneru/Interactive-Visualization-of-Sorting-Algorithms.git
+
+---
+
 ## 📌 Project Overview
 
 Understanding sorting algorithms purely from pseudocode or textbook diagrams can be difficult. This application bridges theoretical computer science and interactive visual learning by transforming abstract array operations into animated vertical bar charts. Students and educators can observe comparisons, swaps, partition steps, and sorted boundaries in real-time.
